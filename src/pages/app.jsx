@@ -2,7 +2,7 @@ import Layout from "../templates/layout";
 
 function App() {
   return (<div className="App">
-    <Layout></Layout>
+    <Layout></Layout>     
   </div>
   );
 }
